@@ -4,9 +4,11 @@ In this guide I'll build a Nodejs Hello World Web App using Docker for running t
 ### How to build
 First of all we will make a new directory where all the files would live.
 ```
-mkdir hello-world
+$~: cd desktop
+$desktop: mkdir hello-world
+$desktop: cd hello-world
 ```
-1. Clone this repository
+The next step, we will clone this repository which contains all the files we need.
 ```
 git clone https://github.com/jodeh/dockerizing-nodejs.git
 ```
