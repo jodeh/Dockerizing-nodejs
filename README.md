@@ -10,5 +10,5 @@ $desktop: cd hello-world
 ```
 The next step, we will clone this repository which contains all the files we need.
 ```
-git clone https://github.com/jodeh/dockerizing-nodejs.git
+$hello-world:git clone https://github.com/jodeh/dockerizing-nodejs.git
 ```
