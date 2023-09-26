@@ -14,10 +14,8 @@ The next step, we will clone this repository which contains all the files we nee
 $hello-world:git clone https://github.com/jodeh/dockerizing-nodejs.git
 ```
 
-
 Now we'll build the docker and check if the image was created.
 ```
 $hello-world:docker build . -t <your username>/node-web-app
-# Confirm image created
 $hello-world: docker images
 ```
